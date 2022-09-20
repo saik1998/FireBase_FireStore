@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">FireBase_FireStore</string>
+
+    <string-array name="state">
+        <item>--Select State--</item>
+        <item>Telengana</item>
+        <item>Andhra Predesh</item>
+        <item>Madhya Presdesh</item>
+        <item>Kerala</item>
+        <item>Tamilnadu</item>
+
+    </string-array>
+</resources>

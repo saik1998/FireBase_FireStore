@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical">
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:text="name"
+            android:textSize="20dp"
+            android:layout_margin="10dp"
+            android:id="@+id/name1"/>
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:text="mobile"
+            android:textSize="20dp"
+            android:layout_margin="10dp"
+            android:id="@+id/mobile1"/>
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:text="mail"
+            android:textSize="20dp"
+            android:layout_margin="10dp"
+            android:id="@+id/mail1"/>
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:text="gender"
+            android:textSize="20dp"
+            android:layout_margin="10dp"
+            android:id="@+id/gender1"/>
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:text="state"
+            android:textSize="20dp"
+            android:layout_margin="10dp"
+            android:id="@+id/state1"/>
+    </LinearLayout>
+
+
+
+
+</LinearLayout>
